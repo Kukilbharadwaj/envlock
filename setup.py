@@ -6,11 +6,11 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setup(
     name="envlock",
     version="0.1.1",
-    author="sazzadur",
+    author="kukilbharadwaj",
     description="Encrypt and decrypt .env files safely for internal teams",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/sazzadur/envlock",
+    url="https://github.com/kukilbharadwaj/envlock",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
